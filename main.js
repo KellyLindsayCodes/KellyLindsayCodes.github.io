@@ -2,7 +2,7 @@
 import * as THREE from './three.module.js'
 import './style.css'
 import gsap from "gsap"
-import {OrbitControls} from "three/examples/jsm/controls/OrbitControls"
+import {OrbitControls} from "/OrbitControls.js"
 
 //scene
 const scene = new THREE.Scene();
